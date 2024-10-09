@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Delicious food recipes and more.">
+  <title>Delicious Food</title>
+  <link rel="stylesheet" href="Landing page style.css">
+</head>
+<body>
+
+  <!-- Header Section -->
+  <header>
+    <div class="container">
+      <h1>Delicious Food</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Recipes</a></li>
+          <li><a href="#">Menu</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <h2>Welcome to the world of delicious food!</h2>
+      <p>Explore our best recipes and find new favorites.</p>
+    </div>
+  </section>
+
+  <!-- Food Items Section -->
+  <section class="food-items">
+    <div class="container">
+      <h2>Our Specialties</h2>
+      <div class="grid">
+        <div class="food-item">
+          <img src="food1.jpg" alt="Food 1">
+          <h3>Pasta Carbonara</h3>
+          <p>A classic Italian dish with creamy sauce and crispy pancetta.</p>
+        </div>
+        <div class="food-item">
+          <img src="food2.jpg" alt="Food 2">
+          <h3>Grilled Chicken</h3>
+          <p>Perfectly grilled chicken with fresh herbs and spices.</p>
+        </div>
+        <div class="food-item">
+          <img src="food3.jpg" alt="Food 3">
+          <h3>Chocolate Cake</h3>
+          <p>Indulgent chocolate cake with rich frosting and a soft center.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer Section -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 Delicious Food. All Rights Reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
+  
